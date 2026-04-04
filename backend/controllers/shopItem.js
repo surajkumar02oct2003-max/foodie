@@ -1,6 +1,6 @@
 const uploadOnCloudinary = require("../utils/cloudinary")
 const Shop = require("../models/shopModel")
-const ShopItem = require("../models/shopitemmodel")
+const ShopItem = require("../models/shopItemModel")
 
 
 //add item
