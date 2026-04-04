@@ -1,6 +1,6 @@
 import React from 'react'
 import { Navigate, Route, Routes } from 'react-router-dom'
-export const serverUrl = "http://localhost:8000"
+export const serverUrl = "https://foodie-backendss.onrender.com"
 import SignUp from './pages/SignUp'
 import Signin from './pages/Signin'
 import ForgetPassword from './pages/ForgetPassword'
