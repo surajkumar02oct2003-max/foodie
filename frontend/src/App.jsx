@@ -9,7 +9,7 @@ import { useSelector } from 'react-redux'
 import Home from './pages/Home'
 import useGetCity from './hooks/useGetCity'
 import useGetMyshop from './hooks/useGetMyshop'
-import CreatEditShop from './pages/creatEditShop'
+import CreatEditShop from './pages/CreatEditShop'
 import AddFoodItem from './pages/AddFoodItem'
 import EditItem from './pages/Edititem'
 import useGetShopByCity from './hooks/useGetShopByCity';
