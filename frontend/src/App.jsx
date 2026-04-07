@@ -11,7 +11,7 @@ import useGetCity from './hooks/useGetCity'
 import useGetMyshop from './hooks/useGetMyshop'
 import CreatEditShop from './pages/CreatEditShop'
 import AddFoodItem from './pages/AddFoodItem'
-import EditItem from './pages/Edititem'
+import EditItem from './pages/EditItem'
 import useGetShopByCity from './hooks/useGetShopByCity';
 import useGetItemsByCity from './hooks/useGetItemsByCity'
 import CartPage from './pages/CartPage'
