@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react'
-import Nav from './nav'
+import Nav from './Nav'
 import { categories } from '../category'
 import CategoryCard from './CategoryCard'
 import { FaArrowCircleLeft } from "react-icons/fa";
